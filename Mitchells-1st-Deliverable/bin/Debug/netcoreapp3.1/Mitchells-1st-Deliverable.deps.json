@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mitchells-1st-Deliverable/1.0.0": {
+        "runtime": {
+          "Mitchells-1st-Deliverable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mitchells-1st-Deliverable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

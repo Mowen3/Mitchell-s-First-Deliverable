@@ -1,0 +1,13 @@
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/bin/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.deps.json
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/bin/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.runtimeconfig.json
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/bin/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.runtimeconfig.dev.json
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/bin/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.dll
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/bin/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.pdb
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/obj/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.csproj.AssemblyReference.cache
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/obj/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/obj/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.AssemblyInfoInputs.cache
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/obj/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.AssemblyInfo.cs
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/obj/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.csproj.CoreCompileInputs.cache
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/obj/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.dll
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/obj/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.pdb
+/Users/mitchellowen/Projects/Mitchells-1st-Deliverable/Mitchells-1st-Deliverable/obj/Debug/netcoreapp3.1/Mitchells-1st-Deliverable.genruntimeconfig.cache
