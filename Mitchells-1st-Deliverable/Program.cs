@@ -28,7 +28,7 @@ namespace Mitchells_1st_Deliverable
                 string answer = Console.ReadLine();
                 if (!(answer == "yes" || answer == "y"))
                 {
-                    Console.WriteLine("Enjoy your sandwiches!");
+                    Console.WriteLine("Goodbye");
                     break;
                 }
             }
